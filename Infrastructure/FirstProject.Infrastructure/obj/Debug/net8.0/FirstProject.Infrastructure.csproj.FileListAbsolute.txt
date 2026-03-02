@@ -1,0 +1,17 @@
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\bin\Debug\net8.0\FirstProject.Infrastructure.deps.json
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\bin\Debug\net8.0\FirstProject.Infrastructure.dll
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\bin\Debug\net8.0\FirstProject.Infrastructure.pdb
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\bin\Debug\net8.0\FirstProject.Application.dll
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\bin\Debug\net8.0\FirstProject.Domain.dll
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\bin\Debug\net8.0\FirstProject.Domain.pdb
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\bin\Debug\net8.0\FirstProject.Application.pdb
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\obj\Debug\net8.0\FirstProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\obj\Debug\net8.0\FirstProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\obj\Debug\net8.0\FirstProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\obj\Debug\net8.0\FirstProject.Infrastructure.AssemblyInfo.cs
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\obj\Debug\net8.0\FirstProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\obj\Debug\net8.0\FirstPro.E98515DA.Up2Date
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\obj\Debug\net8.0\FirstProject.Infrastructure.dll
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\obj\Debug\net8.0\refint\FirstProject.Infrastructure.dll
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\obj\Debug\net8.0\FirstProject.Infrastructure.pdb
+C:\Users\intern.dqhuy3\First_project\Infrastructure\FirstProject.Infrastructure\obj\Debug\net8.0\ref\FirstProject.Infrastructure.dll

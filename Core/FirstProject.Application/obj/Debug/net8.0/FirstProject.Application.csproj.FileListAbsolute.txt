@@ -1,0 +1,15 @@
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\bin\Debug\net8.0\FirstProject.Application.deps.json
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\bin\Debug\net8.0\FirstProject.Application.dll
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\bin\Debug\net8.0\FirstProject.Application.pdb
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\bin\Debug\net8.0\FirstProject.Domain.dll
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\bin\Debug\net8.0\FirstProject.Domain.pdb
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\obj\Debug\net8.0\FirstProject.Application.csproj.AssemblyReference.cache
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\obj\Debug\net8.0\FirstProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\obj\Debug\net8.0\FirstProject.Application.AssemblyInfoInputs.cache
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\obj\Debug\net8.0\FirstProject.Application.AssemblyInfo.cs
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\obj\Debug\net8.0\FirstProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\obj\Debug\net8.0\FirstPro.E10BB0B4.Up2Date
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\obj\Debug\net8.0\FirstProject.Application.dll
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\obj\Debug\net8.0\refint\FirstProject.Application.dll
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\obj\Debug\net8.0\FirstProject.Application.pdb
+C:\Users\intern.dqhuy3\First_project\Core\FirstProject.Application\obj\Debug\net8.0\ref\FirstProject.Application.dll

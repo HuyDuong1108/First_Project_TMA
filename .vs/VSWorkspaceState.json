@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\FirstProject.Application",
+    "\\Core\\FirstProject.Application\\Features",
+    "\\Core\\FirstProject.Application\\Features\\Users",
+    "\\Core\\FirstProject.Application\\Features\\Users\\Commands",
+    "\\Core\\FirstProject.Application\\Features\\Users\\Commands\\CreateUser",
+    "\\Core\\FirstProject.Domain",
+    "\\Core\\FirstProject.Domain\\Entities"
+  ],
+  "SelectedNode": "\\Core\\FirstProject.Domain\\Entities\\User.cs",
+  "PreviewInSolutionExplorer": false
+}

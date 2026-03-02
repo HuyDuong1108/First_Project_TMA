@@ -1,0 +1,8 @@
+"UserId","Email","Password","FullName","CreatedAt","Status"
+"4a7ae841-2f68-4718-940c-fda00b67241a","dev.test@tech.com","$2a$11$qdi4lU036JuEgD5mBUTsLOtmc7gvH4uYSEEpssivm2W3qofNh2R.y","Phạm Minh Tuấn","2023-09-12 17:00:00",False
+"72b4cf18-3a7f-4774-a5c9-5d2b1c7aba98","test.special+char@domain.co.uk","$2a$11$u5JeNK9VCYAt4CTF5NX/U.KeJprSNwFejmx.V7lyGPCzMbY09PEie","Nguyễn Đỗ Cẩm Tú (Kế Toán)","2024-02-10 16:00:00",False
+"a427ac30-ac55-4270-b7c4-6417dad1d8ef","admin@hethong.vn","$2a$11$sSy.16mVrvUztcnJk5eDp.2Oqz4q2F5iMq4qJJG.gierLtZAPv..q","Quản Trị Viên Hệ Thống","2023-01-01 07:00:00",True
+"b50a072b-a590-4695-b9c1-d36e4f7ff9bb","nguyenvana@gmail.com","MatKhauManh123!","Nguyễn Văn A","2023-10-27 15:30:00",True
+"ce87b527-7d6a-434a-8b45-261bbd3568b9","ussdaer@example.com","xxx","Full Huy","2026-02-04 17:09:42.481126",True
+"e9b5e058-98e7-4669-bc40-58dab97e78a3","minh.tuan.tran@gmail.com","$2a$11$9rkowkgEmmsLRP1rekvb9OorYuQ4hvNvrwGn/Ao.VlqBbGzoeUyYC","Trần Minh Tuấn","2024-03-15 15:30:00",False
+"ec2e99e6-ef26-4027-85f1-49172745d539","user1@example.com","$2a$11$Ln8FQrrmcgUGpIU6nS0fVee2fhwSE7cSxTn0Epe09mvyILphV021K","Lê Thị Hồng","2023-10-25 16:15:30",False

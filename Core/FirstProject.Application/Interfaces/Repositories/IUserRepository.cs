@@ -1,0 +1,1 @@
+//nếu cần thêm các chức năng đặc biệt cho UserRepository, mà IGenericRepository không cung cấp thì tạo ở đây
